@@ -1,8 +1,7 @@
-<img src="https://komarev.com/ghpvc/?username=pix0070&color=blue" alt="fax" width="" height="">
+<img src="https://komarev.com/ghpvc/?username=peeonecolor=blue" alt="fax" width="" height="">
 <h1 align="center">Hi there 👋</h1>
 <br>
-<p align="center"><b>All Projects Are Only For Educational Purposes</b></p>
-<h1 align="center">I am just a 16 yo who codes when they are bored</h1>
+<h1 align="center">16 Year old that codes for fun</h1>
 
 
 
@@ -36,8 +35,8 @@
 
 
 ### Stats
-![stats](https://github-readme-stats.vercel.app/api?username=pix0070&show_icons=true&theme=radical)   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pix0070&layout=compact&theme=radical) 
+![stats](https://github-readme-stats.vercel.app/api?username=peeone&show_icons=true&theme=radical)   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peeone&layout=compact&theme=radical) 
 
 
 

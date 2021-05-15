@@ -32,6 +32,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peeone&layout=compact&theme=radical) 
 
 
+Socials: https://p1lovesyou.xyz https://youtube.com/p1lol 
+
+
 
 
 

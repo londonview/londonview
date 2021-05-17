@@ -1,7 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=peeonecolor=blue" alt="fax" width="" height="">
 <h1 align="center">Hi there 👋</h1>
 <br>
-<h1 align="center">16 Year old that codes for fun</h1>
+<h1 align="center">Bored so why not code?</h1>
 
 
 

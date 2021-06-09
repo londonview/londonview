@@ -9,7 +9,7 @@
 
 
 <p align="center">
-<img src="https://discord.c99.nl/widget/theme-4/829423311657893958.png">
+<img src="https://discord.c99.nl/widget/theme-4/815426912486293526.png">
 
 
 <p align="center"><b>Programs and Languages I use</b></p>

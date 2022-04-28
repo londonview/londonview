@@ -1,7 +1,7 @@
-<img src="https://komarev.com/ghpvc/?username=peeonecolor=blue" alt="fax" width="" height="">
+<img src="https://komarev.com/ghpvc/?username=londonviewcolor=blue" alt="fax" width="" height="">
 <h1 align="center">Hi there 👋</h1>
 <br>
-<h1 align="center">Bored so why not code?</h1>
+<h1 align="center">Mans doing bits still</h1>
 
 
 
@@ -28,8 +28,8 @@
 
 
 ### Stats
-![stats](https://github-readme-stats.vercel.app/api?username=peeone&show_icons=true&theme=radical)   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peeone&layout=compact&theme=radical) 
+![stats](https://github-readme-stats.vercel.app/api?username=londonview&show_icons=true&theme=radical)   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=londonview&layout=compact&theme=radical) 
 
 
 Socials: https://p1lovesyou.xyz https://youtube.com/p1lol 

@@ -20,5 +20,5 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/javascript/javascript-original.svg" width="30">
    
 <p align="center">
-<img src="https://64.media.tumblr.com/d96e2c869e23a3789a114f22391542ad/1b6f5a76a317d310-04/s1280x1920/cefc28b0027134984820c95be04ba273d680de13.gifv" width="50">    
+<img src="https://64.media.tumblr.com/deb0617b69d549c5479d95bbff0a5c69/4c9e02dcf3d53319-b8/s500x750/f6a56b18f8e9e50f79b18c0bb43a2240d1b1320d.gifv", width="260"/> 
 </p>

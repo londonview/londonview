@@ -1,12 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=londonview&color=grey" alt="fax" width="" height="">
-<h1 align="center">Wys</h1>
-<br>
-<h1 align="center">Mans doing bits still</h1>
-
-
 
 <p align="center"><b>Socials</b></p>
-
 
 <p align="center">
 <img src="https://discord.c99.nl/widget/theme-4/829423311657893958.png">
@@ -25,8 +19,3 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/c/c-original.svg" width="30">
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/javascript/javascript-original.svg" width="30">
 </p>
-
-
-
-
-

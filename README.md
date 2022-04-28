@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=londonviewcolor=blue" alt="fax" width="" height="">
+<img src="https://komarev.com/ghpvc/?username=londonview&color=grey" alt="fax" width="" height="">
 <h1 align="center">Wys</h1>
 <br>
 <h1 align="center">Mans doing bits still</h1>

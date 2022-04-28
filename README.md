@@ -1,5 +1,5 @@
 <img src="https://komarev.com/ghpvc/?username=londonviewcolor=blue" alt="fax" width="" height="">
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Wys</h1>
 <br>
 <h1 align="center">Mans doing bits still</h1>
 
@@ -9,7 +9,7 @@
 
 
 <p align="center">
-<img src="">
+<img src="https://discord.c99.nl/widget/theme-5/829423311657893958.png">
 
 
 <p align="center"><b>Programs and Languages I use</b></p>

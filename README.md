@@ -1,5 +1,5 @@
 <img src="https://komarev.com/ghpvc/?username=londonview&color=grey" alt="fax" width="" height="">
-<p allign="center"><span> hi im p1 aka the best skid<span>
+<p align="center"><b>hi im p1 aka the best skid</b></p>
 <p align="center"><b>Socials:</b></p>
 
 <p align="center">
